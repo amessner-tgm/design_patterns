@@ -87,7 +87,7 @@ Es können beliebig viele Optionen erstellt werden
 #### Diagramm
 ![Car](../Bilder/Decorator_code_beispiel.JPG)
 
-[Hier](https://github.com/TGM-HIT/sew4-design-patterns-amessner-tgm/tree/master/Decorator/Beispiel) sieht man ein Beispiel zum Decorator Pattern
+[Hier](https://github.com/amessner-tgm/design_patterns/tree/master/Decorator/Beispiel) sieht man ein Beispiel zum Decorator Pattern
 
 Das Beispiel ist so aufgebaut:
 * Man kann Sport-Elemente auf sein BasicCar hinzufügen

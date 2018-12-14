@@ -16,7 +16,7 @@ Proxy stellt ein Objekt zur Verfügung. Ein Check oder eine Bankzahlung ist ein 
 ![Proxy Aufbau](../Bilder/proxy_aufbau.JPG)
 
 ### Code-Beispiel
-[Hier](https://github.com/TGM-HIT/sew4-design-patterns-amessner-tgm/tree/master/Proxy/Beispiel) sieht man ein Beispiel zum Proxy Pattern.
+[Hier](https://github.com/amessner-tgm/design_patterns/tree/master/Proxy/Beispiel) sieht man ein Beispiel zum Proxy Pattern.
 
 ## Quellen
 * https://sourcemaking.com/design_patterns/proxy

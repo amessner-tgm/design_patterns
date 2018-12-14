@@ -27,7 +27,7 @@ AbstractFactory erschafft Factories:
 * ColorFactory
 
 ### Code-Beispiel
-[Hier](https://github.com/TGM-HIT/sew4-design-patterns-amessner-tgm/tree/master/Factory/Abstract/Beispiel) sieht man ein Beispiel zum AbstractFactory Pattern
+[Hier](https://github.com/amessner-tgm/design_patterns/tree/master/Factory/Abstract/Beispiel) sieht man ein Beispiel zum AbstractFactory Pattern
 
 # Quellen
 * https://elearning.tgm.ac.at/pluginfile.php/45193/mod_resource/content/0/DesignPatterns_Factory.pdf

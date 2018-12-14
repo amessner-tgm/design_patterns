@@ -28,13 +28,13 @@
 * Verwende Abstraktionen und nicht konkrete Klassen
 
 ## Design patterns
-* [Strategy](https://github.com/TGM-HIT/sew4-design-patterns-amessner-tgm/blob/master/Strategy/Strategy.md)
-* [Observer](https://github.com/TGM-HIT/sew4-design-patterns-amessner-tgm/blob/master/Observer/Observer.md)
-* [Decorator](https://github.com/TGM-HIT/sew4-design-patterns-amessner-tgm/blob/master/Decorator/Decorator.md)
+* [Strategy](https://github.com/amessner-tgm/design_patterns/blob/master/Strategy/Strategy.md)
+* [Observer](https://github.com/amessner-tgm/design_patterns/blob/master/Observer/Observer.md)
+* [Decorator](https://github.com/amessner-tgm/design_patterns/blob/master/Decorator/Decorator.md)
 * Factory
-  * [Simple](https://github.com/TGM-HIT/sew4-design-patterns-amessner-tgm/blob/master/Factory/Simple/FactorySimple.md)
-  * [Abstract](https://github.com/TGM-HIT/sew4-design-patterns-amessner-tgm/blob/master/Factory/Abstract/FactoryAbstract.md)
-* [Proxy](https://github.com/TGM-HIT/sew4-design-patterns-amessner-tgm/blob/master/Proxy/Proxy.md)
+  * [Simple](https://github.com/amessner-tgm/design_patterns/blob/master/Factory/Simple/FactorySimple.md)
+  * [Abstract](https://github.com/amessner-tgm/design_patterns/blob/master/Factory/Abstract/FactoryAbstract.md)
+* [Proxy](https://github.com/amessner-tgm/design_patterns/blob/master/Proxy/Proxy.md)
 
 # Quellen
 * https://elearning.tgm.ac.at/pluginfile.php/45191/mod_resource/content/0/DesignPatterns_Strategy.pdf

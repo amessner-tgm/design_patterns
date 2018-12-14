@@ -79,7 +79,7 @@ Hier das UML Diagramm zu "Wetterstation". Hier wurd noch ein Interface DisplayEl
 ![Wetterstation](../Bilder/ObserverPattern_aufbau_beispiel.JPG)
 
 ### Code-Beispiel
-[Hier](https://github.com/TGM-HIT/sew4-design-patterns-amessner-tgm/tree/master/Observer/Beispiel) sieht man wie des Abo-System funktioniert. Es werden immer alle Subscriber benachrichtigt.
+[Hier](https://github.com/amessner-tgm/design_patterns/tree/master/Observer/Beispiel) sieht man wie des Abo-System funktioniert. Es werden immer alle Subscriber benachrichtigt.
 
 # Quellen
 * https://elearning.tgm.ac.at/pluginfile.php/62636/mod_resource/content/0/DesignPatterns_Observer.pdf
